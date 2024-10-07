@@ -1,0 +1,24 @@
+.titulo-01{
+    margin: 1em 150px 1em 150px;
+}
+
+p {
+    margin: 16px;
+}
+
+h2 {
+    margin: 16px;
+}
+
+.quebra-organizada {
+    display: block;
+}
+
+.lista-personalizada {
+    background-color: darkmagenta;
+    border: solid black 0.2em;
+    padding: 1em;
+    border-radius: 0.5em;
+    width: 30%;
+    list-style: none;
+}
